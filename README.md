@@ -93,3 +93,4 @@ You can access the android project with implemented features below.
 At Sliide we highly appreciate good communication at all times so, if you have any questions, don’t hesitate to ask   
 
 ## Good luck!   
+"# test2" 
